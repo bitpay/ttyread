@@ -16,7 +16,7 @@
     "terminal",
     "password"
   ],
-  "author": "Stephen Pair"
+  "author": "Stephen Pair",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bitpay/ttyread/issues"
