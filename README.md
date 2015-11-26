@@ -1,4 +1,4 @@
-# node-ttyread
+# ttyread
 Gather input from a terminal
 
 The module provides a similar API to the "read" module, but it
