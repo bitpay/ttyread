@@ -1,0 +1,25 @@
+{
+  "name": "ttyread",
+  "version": "1.0.0",
+  "description": "Read input from TTY devices",
+  "main": "lib/ttyread.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitpay/ttyread.git"
+  },
+  "keywords": [
+    "read",
+    "tty",
+    "terminal",
+    "password"
+  ],
+  "author": "Stephen Pair"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitpay/ttyread/issues"
+  },
+  "homepage": "https://github.com/bitpay/ttyread#readme"
+}
