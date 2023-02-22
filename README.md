@@ -6,8 +6,7 @@ doesn't use the readline builtin and it reads input directly
 from a tty device.  This is useful if you need to support the
 ability to redirect stdio, but also need to read input from a
 user (not from stdin).  Attempts to adapt a few other packages
-to do this properly failed, hence ttyread.  This module has been
-tested with nodejs 0.10 and later releases.
+to do this properly failed, hence ttyread.
 
 ## USAGE
 
