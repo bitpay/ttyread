@@ -1,6 +1,6 @@
 {
   "name": "ttyread",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Read input from TTY devices",
   "main": "lib/ttyread.js",
   "scripts": {
